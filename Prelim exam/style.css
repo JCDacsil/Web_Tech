@@ -1,0 +1,77 @@
+h2 {
+    color: red;
+}
+
+p{
+    color: red;
+}
+
+.hlink a{
+    color: maroon;
+    text-decoration: none;
+}
+
+th{
+    background-color: lightgoldenrodyellow;
+    text-align: left;
+}
+
+td{
+    text-align: left;
+}
+
+table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 20px;
+        font-size: 12;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+.town{
+    color: #2E75B5;
+}
+.fav{
+    color: red;
+}
+.cars{
+    color: maroon;
+}
+
+.gray{
+    color: darkslategray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.pink{
+    color: pink;
+}
+.blue{
+    color: blue;
+}
+.yellow{
+    color: yellow;
+}
+.brown{
+    color: brown;
+}
+.orange{
+    color: Orange;
+}
+
+.food{
+    color: darkslategray;
+}
+.name {
+    color: darkslategrey;
+    text-align: left;
+}
